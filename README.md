@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **a Social-Media website**
 
-- 🌱 I’m currently learning **NEXT.JS and EXPRESS.JS**
+- 🌱 I’m currently learning **NEXT.JS and TYPESCRIPT**
 
 - 👨‍💻 All of my projects are available at [https://its-bismay.github.io/Bismay.io/](https://its-bismay.github.io/Bismay.io/)
 
