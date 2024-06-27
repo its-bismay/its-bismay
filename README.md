@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **NEXT.JS and TYPESCRIPT**
 
-- 👨‍💻 All of my projects are available at [https://its-bismay.github.io/Bismay.io/](https://its-bismay.github.io/Bismay.io/)
+- 👨‍💻 All of my projects are available at [https://its-bismay.github.io/Bismay.io/](https://github.com/its-bismay)
 
 - 💬 Ask me about **react and javascript.**
 
